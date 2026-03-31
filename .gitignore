@@ -1,0 +1,30 @@
+# Build output
+build/
+Debug/
+Release/
+
+# IDE / editor
+.settings/
+.metadata/
+*.launch
+
+# CMake generated
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Compiled objects
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.d
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+.cproject
